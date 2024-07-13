@@ -18,7 +18,7 @@ aside {
     float: left;
     width: calc(25%); /* 25% ширини сторінки мінус відступ */
     
-    background: #d5d5d5;
+    background: #c7c7c7;
 }
 
 .center-top {
@@ -29,7 +29,7 @@ aside {
 }
 
 aside img {
-    box-shadow: 10px 10px 5px rgba(181, 181, 181, 0.97);
+    box-shadow: 10px 10px 5px rgba(174, 174, 174, 0.995);
     display: block;
     margin: 20px auto; /* Мінімальний відступ від верхнього краю */
     }
